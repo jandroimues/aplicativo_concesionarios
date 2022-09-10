@@ -1,0 +1,31 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-1832837fd8f-3727ac49b107aa4a": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "BDCotizaciones.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\jonat\\Desktop\\Proyectociclo3\\BD\\BDCotizaciones.db",
+				"url": "jdbc:sqlite:C:\\Users\\jonat\\Desktop\\Proyectociclo3\\BD\\BDCotizaciones.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
